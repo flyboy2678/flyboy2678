@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on: Developing a go restful API server<br>🌱 I’m currently learning: GO and OpenGL<br>
+![👋 Hi, my name is Tony Lapuken](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<div>
+  <h1>👋Hi, I'm Hope</h1>
+</div>
+💫 About Me: I’m currently working on: Developing a go restful API server<br>🌱 I’m currently learning: GO and OpenGL<br>
 
 
 ## 🌐 Socials:
